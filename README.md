@@ -1,5 +1,5 @@
 
-# Lições aprendidas durante o desenvolvimento do lad na DIO
+# Lições aprendidas durante o desenvolvimento do lab na DIO
 ---
 
 Durante a execução do lab conceitos e informações importantes nos foram apresentadas de forma que através dos quais podemos tomar decisões importantes na utilização e configuração de serviços na Nuvem.
